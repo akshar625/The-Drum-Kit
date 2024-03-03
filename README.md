@@ -4,7 +4,7 @@ Welcome to the Drum Kit project! This project allows you to play drum sounds by 
 
 ## Demo
 
-You can check out the live demo of the Drum Kit project [here](https://example.com](https://akshar625.github.io/The-Drum-Kit/)).
+You can check out the live demo of the Drum Kit project [here]((https://akshar625.github.io/The-Drum-Kit/)).
 
 ## Getting Started
 
